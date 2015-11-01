@@ -19,7 +19,7 @@
 - [hhUI](https://github.com/Harvey-he/hhUI)
 
 ### 基础组件库
-### 基础工具方法库
+### 基础Javascript框架
 
 ## 前端架构
 积累优秀的前端架构
